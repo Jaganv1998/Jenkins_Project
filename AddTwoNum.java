@@ -9,6 +9,16 @@ public class AddTwoNum {
 	{
 		AddTwoNum a = new AddTwoNum();
 		a.twoNum(5, 60);
+		
+		System.out.println();
+		System.out.println();
+		
+		System.out.println("This is my home");
+		
+		System.out.println();
+		
+		System.out.println("Hi")
+		
 	}
 
 }
