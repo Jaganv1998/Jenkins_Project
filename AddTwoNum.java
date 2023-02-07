@@ -17,7 +17,11 @@ public class AddTwoNum {
 		
 		System.out.println();
 		
-		System.out.println("Hi")
+		System.out.println("Hi");
+		
+		System.out.println();
+		
+		System.out.prinltn("Welcome");
 		
 	}
 
